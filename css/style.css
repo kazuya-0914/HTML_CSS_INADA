@@ -1,0 +1,21 @@
+/* --- 教材コード --- */
+
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: pink;
+  transition: all 1s ease;
+}
+
+/* --- その他 --- */
+#dom-code {
+  font-size: 24px;
+  font-weight: bold;
+  color: red;
+}
+
+#weather-html {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+}
