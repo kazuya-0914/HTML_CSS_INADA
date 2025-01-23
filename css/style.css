@@ -1,21 +1,41 @@
-/* --- 教材コード --- */
-
-.box {
-  width: 200px;
-  height: 200px;
-  background-color: pink;
-  transition: all 1s ease;
+.item {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 1rem;
 }
-
-/* --- その他 --- */
-#dom-code {
-  font-size: 24px;
-  font-weight: bold;
+.item.n1 {
   color: red;
 }
-
-#weather-html {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 1.5rem;
+.item.n2 {
+  color: red;
 }
+.item.n3 {
+  color: red;
+}
+.item.n4 {
+  color: red;
+}
+.item.n5 {
+  color: green;
+}
+.item.n6 {
+  color: green;
+}
+.item.n7 {
+  color: green;
+}
+.item.n8 {
+  color: green;
+}
+.item.n9 {
+  color: blue;
+}
+.item.n10 {
+  color: blue;
+}
+.item.n11 {
+  color: blue;
+}
+.item.n12 {
+  color: blue;
+}/*# sourceMappingURL=style.css.map */
